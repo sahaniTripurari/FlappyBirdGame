@@ -6,13 +6,13 @@ The player controls a bird and tries to survive by keeping it within the game ar
 ## 📸 Screenshots
 
 ### Game Start
-![Game Start](screenshots/start.png)
+![Game Start](screenshots/start-screen.png)
 
 ### Gameplay
 ![Gameplay](screenshots/gameplay.png)
 
 ### Game Over
-![Game Over](screenshots/gameover.png)
+![Game Over](screenshots/game-over.png)
 
 
 🎮 How the Game Works

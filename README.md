@@ -1,7 +1,6 @@
 ## 🎮 Play Live – Flappy Bird Game
 
-Play the game here:  
-https://sahanitripurari.github.io/FlappyBirdGame/
+
 [![Play Live](https://img.shields.io/badge/Play%20Now-FlappyBirdGame-blue)](https://sahanitripurari.github.io/FlappyBirdGame/)
 
 
